@@ -1,13 +1,6 @@
-## Hi there 👋
-
-**Ilem3/ilem3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi everyone
 
 I am Nancy, a data scientist based in Switzerland
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
+- 🔭 I’m currently taking courses in my domain while working on projet you an discover on my profil
+- 🌱 I’m currently learning about machine learning, deep learning and financial topics
